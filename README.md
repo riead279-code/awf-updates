@@ -1,2 +1,4 @@
-  "version": "0.37.0",# awf-updates
-Awf library updates
+# Ouf Library Updates
+
+تحديثات مكتبة عوف (Ouf) لبرنامج SketchUp.
+للاشتراك والتفعيل: واتساب 01110250833
